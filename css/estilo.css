@@ -15,3 +15,15 @@
   width: 40px;
   height: 40px;
 }
+.seccion-contenido{
+  background-color:green; 
+}
+.seccion-busqueda{
+  background-color:yellow; 
+}
+
+@media (max-width: 770px) {
+  .seccion-busqueda{
+    display: none;
+  }
+}
