@@ -7,6 +7,9 @@
 .logo {
   width: 300px;
 }
+.img-artistas{
+  max-width: 50px;
+}
 
 .cabecera {
   background: #ffffff;
@@ -15,9 +18,8 @@
   width: 40px;
   height: 40px;
 }
-.seccion-contenido{
-  background-color:green; 
-}
+.seccion-contenido{}
+
 .seccion-busqueda{
   background-color:yellow; 
 }
